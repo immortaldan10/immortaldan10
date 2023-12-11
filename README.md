@@ -1,6 +1,10 @@
 ### Hi there 👋
 I'm Danny a unity indie dev
 
+
+![immortaldan10's GitHub stats](https://github-readme-stats.vercel.app/api?username=immortaldan10&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=immortaldan10&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immortaldan10&layout=compact&theme=radical)
+
 <!--
 **immortaldan10/immortaldan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
