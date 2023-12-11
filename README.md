@@ -1,9 +1,12 @@
-### Hi there 👋
-I'm Danny a unity indie dev
+### Hey, 👋 I'm Danny a Unity indie dev and programmer
 
+Languages: ![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white), ![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 
 ![immortaldan10's GitHub stats](https://github-readme-stats.vercel.app/api?username=immortaldan10&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=immortaldan10&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immortaldan10&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=immortaldan10&theme=dark)
+
+
+
 
 <!--
 **immortaldan10/immortaldan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
