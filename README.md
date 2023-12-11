@@ -1,6 +1,6 @@
 ### Hey, 👋 I'm Danny a Unity indie dev and programmer
 
-Languages: 
+Languages: C#, Python, Javascript, Bash, SwiftUI
 
 ![immortaldan10's GitHub stats](https://github-readme-stats.vercel.app/api?username=immortaldan10&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=immortaldan10&theme=dark)
