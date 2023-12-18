@@ -1,6 +1,7 @@
 ### Hey, 👋 I'm Danny a Unity indie dev and programmer
 
 Languages: C#, Python, Javascript, SwiftUI
+
 Certifications: Swift
 
 ![immortaldan10's GitHub stats](https://github-readme-stats.vercel.app/api?username=immortaldan10&show_icons=true&theme=radical)
